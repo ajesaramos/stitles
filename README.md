@@ -1,2 +1,2 @@
-# status
-An Python http(s) status checker
+# Stitles
+An Python http(s) title and status check script.
