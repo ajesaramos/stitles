@@ -1,2 +1,2 @@
 # Stitles
-An Python http(s) title and status check script.
+Python title and status check script using httpx.
